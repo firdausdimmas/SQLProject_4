@@ -17,7 +17,7 @@ Refer to the below ERD diagram for a visual representation of the relationships 
 
 
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis (EDA)
 
 EDA involved exploring the datasets to answer key questions, such as:
 - Which assignments received the highest total donations overall?
