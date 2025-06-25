@@ -2,6 +2,9 @@
 
 ### Project Overview
 
+![ngo_project_image](https://github.com/user-attachments/assets/3b05dc1c-8584-4dbd-b83d-26fa91dbab32)
+
+
 This project focuses on supporting GoodThought NGO, an organization dedicated to driving positive change through initiatives in education, healthcare, and sustainable development. The goal is to leverage data-driven insights to help GoodThought optimize its impact and resource allocation.
 
 Using the GoodThought PostgreSQL database, which contains detailed records of assignments, funding, impacts, and donor activities from 2010 to 2023, the project aims to analyze trends, evaluate program effectiveness, and uncover opportunities for improvement. This hands-on data analysis empowers the NGO to make more informed decisions, maximize its reach, and strengthen its humanitarian efforts worldwide.
@@ -15,7 +18,7 @@ GoodThought has provided comprehensive dataset includes:
 
 Refer to the below ERD diagram for a visual representation of the relationships between these data tables:
 
-
+<img width="835" alt="erd" src="https://github.com/user-attachments/assets/30556b4d-3a34-4e08-ab65-e3ff04b33f42" />
 
 ### Exploratory Data Analysis (EDA)
 
